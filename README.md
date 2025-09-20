@@ -25,25 +25,17 @@ The Language Learning App is designed to make language acquisition fun and effec
 - Easily extendable for more languages and categories
 
 ## Screenshots
-<div align="center">
-  
-	![Home Page](screenshots/1.png)
-  
-	*Home Page*
-  
-	![Numbers Page](screenshots/2.png)
-  
-	*Numbers Page*
-  
-	![Colors Page](screenshots/4.png)
-  
-	*Colors Page*
-  
-	![Family Members Page](screenshots/3.png)
-  
-	*Family Members Page*
-  
-</div>
+![Home Page](screenshots/1.png)
+*Home Page*
+
+![Numbers Page](screenshots/2.png)
+*Numbers Page*
+
+![Colors Page](screenshots/4.png)
+*Colors Page*
+
+![Family Members Page](screenshots/3.png)
+*Family Members Page*
 
 ## Getting Started
 
