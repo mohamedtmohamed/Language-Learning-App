@@ -26,16 +26,12 @@ The Language Learning App is designed to make language acquisition fun and effec
 
 ## Screenshots
 ![Home Page](screenshots/1.png)
-*Home Page*
 
 ![Numbers Page](screenshots/2.png)
-*Numbers Page*
 
 ![Colors Page](screenshots/4.png)
-*Colors Page*
 
 ![Family Members Page](screenshots/3.png)
-*Family Members Page*
 
 ## Getting Started
 
